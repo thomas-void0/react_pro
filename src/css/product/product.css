@@ -1,0 +1,18 @@
+.contentBox{
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 1032px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  
+}
+.contentBox div{
+    margin-bottom: 32px;
+}
+.posBox{
+    position: relative;
+}
+.abPos{
+    position: absolute;
+    z-index: 99;
+}

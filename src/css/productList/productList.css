@@ -1,0 +1,14 @@
+.box{
+    width: 1440px;
+    height: 265px;
+    opacity: 0.98;
+    background: #161A24;
+}
+.box .navBox{
+    display:grid;
+    grid-template-rows:177px;
+    grid-template-columns: 528px 528px;
+    justify-items:left;
+    margin-left: 228px;
+    padding-top: 40px;
+}

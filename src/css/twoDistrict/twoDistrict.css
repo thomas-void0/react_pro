@@ -1,0 +1,13 @@
+.contentBox{
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 1032px;
+    display: flex;
+}
+.contentBox div{
+    margin-bottom: 108px;
+    margin-left: 48px;
+}
+.contentBox div:first-child{
+    margin-left: 0;
+}

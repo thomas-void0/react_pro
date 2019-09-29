@@ -1,0 +1,18 @@
+.box{
+    width: 168px;
+    height: 168px;
+    background: #F7F8FA;
+}
+.box ul{
+    text-align: center;
+}
+.box ul li:first-child{
+    padding-top: 36px;
+}
+.box ul li:first-child img{
+    width: 56px;
+    height: 56px;
+}
+.box ul li:last-child{
+    margin-top: 24px;
+}

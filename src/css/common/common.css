@@ -1,0 +1,31 @@
+.box{
+    width: 100%;
+    height: 296px;
+}
+.contentBox{
+    font-family: MicrosoftYaHei-Bold;
+    font-size: 24px;
+    color: #FFFFFF;
+    letter-spacing: 4px;
+    line-height: 32px;
+    margin-left: 204px;
+    padding-top: 64px;
+}
+.contentBox li:last-child{
+    font-family: Roboto-Regular;
+    font-size: 20px;
+    color: rgba(255,255,255,0.6);
+    letter-spacing: 2px;
+}
+.box p{
+    margin-left: 204px;
+    margin-top: 32px;
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+    text-align: justify;
+    line-height: 28px;
+    width: 600px;
+    height: 56px;
+}
